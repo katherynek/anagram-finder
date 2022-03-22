@@ -1,6 +1,6 @@
 // ANAGRAM FINDER
 // In this program, I will write a program to determine whether two strings are anagrams or not.
-/* The contraints of this project are: Each string will contain only characters that are from the first 4 letters of the 
+/* The constraints of this project are: Each string will contain only characters that are from the first 4 letters of the 
 English alphabet ('a', 'b', 'c', 'd') and spaces. All letters are in lowercase. */
 
 #include <stdio.h>
